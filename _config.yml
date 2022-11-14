@@ -37,27 +37,27 @@ features                                  :
 
   - title                                 : Amplify Hearing x10 Times
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Created with an Audiologist
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Noise Reducer
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Stereo enhancer 
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Volume Booster
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Сrystal Сlear Sound
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
 
 
