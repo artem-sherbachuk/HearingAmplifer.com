@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Hearing Aid: Hearing Amplifier
+app_description                           : Hearing Aid
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,27 +37,27 @@ features                                  :
 
   - title                                 : Amplify Hearing x10 Times
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Created with an Audiologist
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Noise Reducer
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Stereo enhancer 
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Volume Booster
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
   - title                                 : Сrystal Сlear Sound
     description                           : 
-    fontawesome_icon_name                 : fa fa-deaf
+    fontawesome_icon_name                 : fa-ear-deaf
 
 
 
